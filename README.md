@@ -1,5 +1,5 @@
 # 💫 I'M VAHID SHAHIN
-👋I'm @vahidshahin<br>🌱 I’m currently learning php<br>⚡ Fun fact I think I am good at strategic games<br>
+👋I'm @vahidshahin<br>🌱 I’m start python develop<br>⚡ Fun fact I think I am good at strategic games<br>
 
 
 ## 🌐 Socials:
